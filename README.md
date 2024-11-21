@@ -46,7 +46,8 @@ https://github.com/user-attachments/assets/20e1356d-5929-491d-9c01-01cfd7a1a665
 ## Description
 This is a Flutter project that demonstrates the use of Hero animations to create smooth transitions between widgets across screens. This example showcases how shared elements can enhance navigation and user experience with eye-catching animations.
 
-<img src="https://github.com/user-attachments/assets/7f6c0d11-5da6-4f6d-b9ff-77fe48010627" height=65% width=22%>
-<img src="https://github.com/user-attachments/assets/a6c4d786-224f-4c18-bab5-a307e108595c" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/78ec50e6-e0ea-4e94-8acc-d9dd92cedaf9" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/1de4723c-262c-4a6e-8ee2-72b0c2b589cb" height=65% width=22%>
 
-https://github.com/user-attachments/assets/b809a166-ae4c-43e5-b474-99a327476cc3
+https://github.com/user-attachments/assets/4e714fce-9c60-4617-9d5f-d2daabd11e04
+
