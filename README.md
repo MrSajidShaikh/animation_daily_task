@@ -37,14 +37,14 @@ https://github.com/user-attachments/assets/80a07af2-7750-47d5-bf13-e2596edb88c0
 ## Description
 A Flutter app that greets users with an animated message after they enter their name. Features typewriter-style text animation and a message display with a restart option.
 
-<img src="https://github.com/user-attachments/assets/fc421362-e01b-4dd1-943c-88f318a92d7e" height=65% width=22%>
+<img src="https://github.com/user-attachments/assets/5930ac41-b165-48ee-8c7f-8470f8603009" height=65% width=22%>
 
-https://github.com/user-attachments/assets/8c77b238-05a6-415f-8417-e2649da47ea7
+https://github.com/user-attachments/assets/20e1356d-5929-491d-9c01-01cfd7a1a665
 
 ## Hero Animation
 
 ## Description
-A Flutter project demonstrating the use of Hero animations to create smooth transitions between widgets across screens. This example showcases how shared elements can enhance navigation and user experience with eye-catching animations.
+This is a Flutter project that demonstrates the use of Hero animations to create smooth transitions between widgets across screens. This example showcases how shared elements can enhance navigation and user experience with eye-catching animations.
 
 <img src="https://github.com/user-attachments/assets/7f6c0d11-5da6-4f6d-b9ff-77fe48010627" height=65% width=22%>
 <img src="https://github.com/user-attachments/assets/a6c4d786-224f-4c18-bab5-a307e108595c" height=65% width=22%>
