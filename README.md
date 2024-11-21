@@ -1,6 +1,6 @@
 # animation_daily_task
 
-## Drag & Drop Animation
+## Drag N Drop Animation
 ## Description
 
 This engaging application is a Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. Through an intuitive drag-and-drop interface, users can match images with their corresponding names.
