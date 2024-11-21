@@ -3,7 +3,7 @@
 ## Drag & Drop Animation
 ## Description
 
-A Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. This engaging application allows users to match images with their corresponding names through an intuitive drag-and-drop interface.
+This engaging application is a Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. Through an intuitive drag-and-drop interface, users can match images with their corresponding names.
 
 ## Features
 - Interactive Drag-and-Drop: Seamlessly drag images and drop them into the correct target slots.
@@ -18,19 +18,6 @@ A Flutter-based drag-and-drop puzzle game designed to enhance users' visual reco
 <img src="https://github.com/user-attachments/assets/e0bab0c5-7150-4494-a6b6-baf26ea62123" height=65% width=22%>
 
 https://github.com/user-attachments/assets/91cd517f-9740-47e7-9727-16e5ab416868
-
-
-
-## Align Animation
-
-## Description
-A Flutter app showcasing smooth animations with an airplane icon that changes positions and background color dynamically based on user interaction. Users can toggle the plane's alignment and observe the transition effects using the "Toggle Plane" button.
-
-<img src="https://github.com/user-attachments/assets/d9011c69-74ab-4273-963e-57b16f16ea25" height=65% width=22%>
-<img src="https://github.com/user-attachments/assets/5b795960-e33b-4c3f-a8d8-a9979dba1b19" height=65% width=22%>
-<img src="https://github.com/user-attachments/assets/633856b2-aee2-45af-beb7-e7c7fab9ebf7" height=65% width=22%>
-
-https://github.com/user-attachments/assets/80a07af2-7750-47d5-bf13-e2596edb88c0
 
 ## Align & Text Animation
 
