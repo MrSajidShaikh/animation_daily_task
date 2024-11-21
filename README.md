@@ -3,7 +3,7 @@
 ## Drag N Drop Animation
 ## Description
 
-This engaging application is a Flutter-based drag-and-drop puzzle game designed to enhance users' visual recognition and matching skills. Through an intuitive drag-and-drop interface, users can match images with their corresponding names.
+This engaging application is a Flutter-based Drag-N-Drop puzzle game designed to enhance users' visual recognition and matching skills. Through an intuitive drag-and-drop interface, users can match images with their corresponding names.
 
 ## Features
 - Interactive Drag-and-Drop: Seamlessly drag images and drop them into the correct target slots.
