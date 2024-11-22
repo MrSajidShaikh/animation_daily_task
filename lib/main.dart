@@ -3,7 +3,7 @@ import 'package:animation_daily_task/Screen/hero_widget_screen1.dart';
 import 'package:animation_daily_task/Screen/positioned_widget.dart';
 import 'package:flutter/material.dart';
 
-void main(){
+void main() {
   runApp(const MyApp());
 }
 
