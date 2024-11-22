@@ -90,27 +90,32 @@ int selectedIndex = 0;
 List<Map<String, dynamic>> products = [
   {
     'name': 'Dodge Challenger SRT',
-    'img': 'https://www.pngplay.com/wp-content/uploads/13/Dodge-Car-PNG-Photo-Image.png',
+    'img':
+        'https://www.pngplay.com/wp-content/uploads/13/Dodge-Car-PNG-Photo-Image.png',
     'price': '\$178000',
   },
   {
     'name': 'BMW M5 CS',
-    'img': 'https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/vhs/BMW-M5.png',
+    'img':
+        'https://carsguide-res.cloudinary.com/image/upload/f_auto,fl_lossy,q_auto,t_default/v1/editorial/vhs/BMW-M5.png',
     'price': '\$144000',
   },
   {
     'name': 'Supra MK3',
-    'img': 'https://i.pinimg.com/originals/33/e7/bf/33e7bf063d5c54193b867dd6042c8384.png',
+    'img':
+        'https://i.pinimg.com/originals/33/e7/bf/33e7bf063d5c54193b867dd6042c8384.png',
     'price': '\$149000',
   },
   {
     'name': 'Koenigsegg',
-    'img': 'https://static.wikia.nocookie.net/tdx/images/2/20/Jesko.png/revision/latest?cb=20240609212135',
+    'img':
+        'https://static.wikia.nocookie.net/tdx/images/2/20/Jesko.png/revision/latest?cb=20240609212135',
     'price': '\$169000',
   },
   {
     'name': 'Ford Mustang',
-    'img': 'https://i.pinimg.com/originals/1d/b5/b5/1db5b5bea84a780f75dc73f3e3dab3ee.png',
+    'img':
+        'https://i.pinimg.com/originals/1d/b5/b5/1db5b5bea84a780f75dc73f3e3dab3ee.png',
     'price': '\$88000',
   },
   {
